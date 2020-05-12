@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseOrder", "ReverseOrder\ReverseOrder.csproj", "{AB89F48B-4DB2-4E90-9F8D-761277AC6F22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB89F48B-4DB2-4E90-9F8D-761277AC6F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB89F48B-4DB2-4E90-9F8D-761277AC6F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB89F48B-4DB2-4E90-9F8D-761277AC6F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB89F48B-4DB2-4E90-9F8D-761277AC6F22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE841F7D-15FF-469B-A305-AA2247A31F91}
+	EndGlobalSection
+EndGlobal

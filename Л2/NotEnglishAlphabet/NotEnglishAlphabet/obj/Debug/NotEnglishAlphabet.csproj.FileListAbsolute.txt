@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\ИСП\Л2\NotEnglishAlphabet\NotEnglishAlphabet\bin\Debug\NotEnglishAlphabet.exe.config
+C:\Users\USER\Desktop\ИСП\Л2\NotEnglishAlphabet\NotEnglishAlphabet\bin\Debug\NotEnglishAlphabet.exe
+C:\Users\USER\Desktop\ИСП\Л2\NotEnglishAlphabet\NotEnglishAlphabet\bin\Debug\NotEnglishAlphabet.pdb
+C:\Users\USER\Desktop\ИСП\Л2\NotEnglishAlphabet\NotEnglishAlphabet\obj\Debug\NotEnglishAlphabet.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\ИСП\Л2\NotEnglishAlphabet\NotEnglishAlphabet\obj\Debug\NotEnglishAlphabet.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ИСП\Л2\NotEnglishAlphabet\NotEnglishAlphabet\obj\Debug\NotEnglishAlphabet.exe
+C:\Users\USER\Desktop\ИСП\Л2\NotEnglishAlphabet\NotEnglishAlphabet\obj\Debug\NotEnglishAlphabet.pdb

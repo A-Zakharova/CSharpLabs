@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\ИСП\Л2\ReverseOrder\ReverseOrder\bin\Debug\ReverseOrder.exe.config
+C:\Users\USER\Desktop\ИСП\Л2\ReverseOrder\ReverseOrder\bin\Debug\ReverseOrder.exe
+C:\Users\USER\Desktop\ИСП\Л2\ReverseOrder\ReverseOrder\bin\Debug\ReverseOrder.pdb
+C:\Users\USER\Desktop\ИСП\Л2\ReverseOrder\ReverseOrder\obj\Debug\ReverseOrder.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\ИСП\Л2\ReverseOrder\ReverseOrder\obj\Debug\ReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ИСП\Л2\ReverseOrder\ReverseOrder\obj\Debug\ReverseOrder.exe
+C:\Users\USER\Desktop\ИСП\Л2\ReverseOrder\ReverseOrder\obj\Debug\ReverseOrder.pdb
