@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\ИСП\Л8\Rooms8\Rooms8\bin\Debug\Rooms8.exe.config
+C:\Users\USER\Desktop\ИСП\Л8\Rooms8\Rooms8\bin\Debug\Rooms8.exe
+C:\Users\USER\Desktop\ИСП\Л8\Rooms8\Rooms8\bin\Debug\Rooms8.pdb
+C:\Users\USER\Desktop\ИСП\Л8\Rooms8\Rooms8\obj\Debug\Rooms8.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\ИСП\Л8\Rooms8\Rooms8\obj\Debug\Rooms8.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ИСП\Л8\Rooms8\Rooms8\obj\Debug\Rooms8.exe
+C:\Users\USER\Desktop\ИСП\Л8\Rooms8\Rooms8\obj\Debug\Rooms8.pdb
