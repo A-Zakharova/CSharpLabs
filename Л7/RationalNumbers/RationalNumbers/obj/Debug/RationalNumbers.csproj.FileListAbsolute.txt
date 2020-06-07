@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\ИСП\Л7\RationalNumbers\RationalNumbers\bin\Debug\RationalNumbers.exe.config
+C:\Users\USER\Desktop\ИСП\Л7\RationalNumbers\RationalNumbers\bin\Debug\RationalNumbers.exe
+C:\Users\USER\Desktop\ИСП\Л7\RationalNumbers\RationalNumbers\bin\Debug\RationalNumbers.pdb
+C:\Users\USER\Desktop\ИСП\Л7\RationalNumbers\RationalNumbers\obj\Debug\RationalNumbers.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\ИСП\Л7\RationalNumbers\RationalNumbers\obj\Debug\RationalNumbers.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ИСП\Л7\RationalNumbers\RationalNumbers\obj\Debug\RationalNumbers.exe
+C:\Users\USER\Desktop\ИСП\Л7\RationalNumbers\RationalNumbers\obj\Debug\RationalNumbers.pdb
