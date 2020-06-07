@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\ИСП\Л5\Rooms\Rooms\obj\Debug\Rooms.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\ИСП\Л5\Rooms\Rooms\obj\Debug\Rooms.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ИСП\Л5\Rooms\Rooms\bin\Debug\Rooms.exe.config
+C:\Users\USER\Desktop\ИСП\Л5\Rooms\Rooms\bin\Debug\Rooms.exe
+C:\Users\USER\Desktop\ИСП\Л5\Rooms\Rooms\bin\Debug\Rooms.pdb
+C:\Users\USER\Desktop\ИСП\Л5\Rooms\Rooms\obj\Debug\Rooms.exe
+C:\Users\USER\Desktop\ИСП\Л5\Rooms\Rooms\obj\Debug\Rooms.pdb
